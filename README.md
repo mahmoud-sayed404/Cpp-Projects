@@ -41,3 +41,17 @@ This repository contains small C++ projects I built while learning programming f
 - Skills used: strings, conditions, loops.
 
 📂 File: `login.cpp`
+
+
+---
+### 6)Student Management System 
+
+This is a simple C++ console application for managing student data.
+
+## 📌 Features
+- Add new student records
+- Display all students
+- Search for a student by ID or name
+- Basic data management using arrays/structures
+
+  📂 File: `Student.cpp`
